@@ -1,0 +1,6 @@
+# Ejecutables de los ejercicios
+beej/hello
+beej/hello-debug
+
+# Archivos objeto
+*.o
